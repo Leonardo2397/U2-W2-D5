@@ -1,0 +1,11 @@
+.logo {
+    max-width: 100px;
+}
+
+.profile {
+    max-width: 50px;
+}
+
+header nav ul li a {
+    text-decoration: none;
+}
